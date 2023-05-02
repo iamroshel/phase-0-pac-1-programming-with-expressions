@@ -412,3 +412,4 @@ virtual high-five from us! You've come a long way!
   - [Conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
 
 [replit]: https://replit.com/languages/javascript
+Roshel
